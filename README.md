@@ -107,7 +107,8 @@
    ```bash
    /home/username/mysqlDump/backup_and_import.sh
    ```
-![image](https://github.com/user-attachments/assets/93799644-1b7e-472c-9961-ae42d62dafe5)
+![image](https://github.com/user-attachments/assets/824ff87d-12da-49ee-ba9f-d74cc52823cf)
+> 백업 파일이 날짜와 시간별로 저장 됩니다.
 
 
 ## Cron 설정⏰
